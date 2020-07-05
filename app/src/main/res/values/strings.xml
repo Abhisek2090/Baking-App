@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="RECIPE_PREFERENCE_FILE">receipe_data_preferences</string>
+    <string name="recipe_ingredients">Recipe_Ingredtients</string>
+    <string name="add_to_widget">Add To Widget</string>
+    <string name="add_to_homescreen">Receipe Added to HomeScreen</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
